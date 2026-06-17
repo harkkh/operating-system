@@ -1,0 +1,7 @@
+1.git clone :-
+
+git clone used to copy reposatory from git hub to file system .
+even 100files present in repo all of them are copy in file system.
+
+2.git git status :-
+this command used to
