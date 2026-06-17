@@ -1,7 +1,17 @@
 1.git clone :-
-
 git clone used to copy reposatory from git hub to file system .
 even 100files present in repo all of them are copy in file system.
 
-2.git git status :-
-this command used to
+2.git add :-
+this command used to track file for add in reposetory
+
+3. git status:-
+used to see which files are tracked or not
+
+4.git commit :-
+when user make anny change in file or reposetory then commit is used to save that changes.
+
+5.git push origin main:-
+files ne reposetory upar save karva mate.
+
+
